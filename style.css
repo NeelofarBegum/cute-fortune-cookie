@@ -1,0 +1,28 @@
+body{
+font-family: Arial;
+text-align:center;
+background:linear-gradient(#ffd6e8,#fff5c3);
+padding-top:100px;
+}
+
+h1{
+color:#ff6aa6;
+}
+
+#fortune{
+font-size:22px;
+margin:30px;
+}
+
+button{
+padding:12px 25px;
+font-size:16px;
+border:none;
+border-radius:10px;
+background:#ff9ecf;
+cursor:pointer;
+}
+
+button:hover{
+background:#ff70b5;
+}
